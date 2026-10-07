@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhairyaa Dodiya</h1>
+<h1 align="center">Hi , I'm Dhairyaa Dodiya</h1>
 
 <h3 align="center">
   CSE (Data Science) Student | Developer | Tech Enthusiast
@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm **Dhairyaa Dodiya**, a second-year **B.Tech student in Computer Science
 and Engineering (Data Science)** at **SVKM's NMIMS, Shirpur**.
@@ -22,20 +22,20 @@ and Engineering (Data Science)** at **SVKM's NMIMS, Shirpur**.
 I'm passionate about learning new technologies, exploring new ideas, and
 understanding how technology can be used to solve real-world problems.
 
-- 🎓 B.Tech CSE (Data Science) — Class of 2029
-- 💻 Currently strengthening my programming and development skills
-- 🤖 Exploring Artificial Intelligence and Prompt Engineering
-- 📊 Interested in Data Science and technology-driven solutions
-- 🌐 Learning Web Development
-- 🚀 Participating in hackathons and technical activities
-- 🌍 I enjoy travelling, exploring new places and learning about the world
-- 🧠 Always curious to learn something new
+-  B.Tech CSE (Data Science) — Class of 2029
+-  Currently strengthening my programming and development skills
+- Exploring Artificial Intelligence and Prompt Engineering
+-  Interested in Data Science and technology-driven solutions
+- Learning Web Development
+-  Participating in hackathons and technical activities
+-  I enjoy travelling, exploring new places and learning about the world
+-  Always curious to learn something new
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👩‍💻 Programming Languages
+###  Programming Languages
 
 <p align="left">
 
@@ -59,7 +59,7 @@ understanding how technology can be used to solve real-world problems.
 
 </p>
 
-### 🔧 Tools
+###  Tools
 
 <p align="left">
 
@@ -71,29 +71,29 @@ understanding how technology can be used to solve real-world problems.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- 🤖 Artificial Intelligence
-- ✨ Prompt Engineering
-- 📊 Data Science
-- 🐍 Python
-- 🌐 Web Development
-- 💻 Software Development
-- 📈 Statistics & Data Analysis
-- 🔢 Digital Logic & Computer Science Fundamentals
+-  Artificial Intelligence
+-  Prompt Engineering
+-  Data Science
+-  Python
+-  Web Development
+-  Software Development
+-  Statistics & Data Analysis
+-  Digital Logic & Computer Science Fundamentals
 
 ---
 
-## 💡 Areas of Interest
+##  Areas of Interest
 
 I'm interested in exploring different areas of technology and discovering
 where my skills can create the most impact.
 
 ```text
-Artificial Intelligence     🤖
-Data Science                📊
-Software Development        💻
-Web Development             🌐
-Prompt Engineering          ✨
-Technology & Innovation     🚀
-Problem Solving             🧠
+Artificial Intelligence     
+Data Science                
+Software Development        
+Web Development             
+Prompt Engineering          
+Technology & Innovation     
+Problem Solving             
